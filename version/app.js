@@ -5,7 +5,7 @@ var response;
 
 app.get('/', function (req, res) {
 
-    response = 'This is versis of tsp.' + '\n';
+    response = 'This is versof tsp.' + '\n';
 
     //send the response to the client
     res.send(response);
